@@ -3,7 +3,7 @@
 <title> </title>
 </head>
 <body>
-<h1> Sirr, manually bhi hogya ! </h1>
+<h1> Automatic CI/CD done for java </h1>
 
 </body>
 </html>
