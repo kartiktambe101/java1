@@ -3,7 +3,7 @@
 <title> </title>
 </head>
 <body>
-<h1> Automatic CI/CD done for java </h1>
+<h1> This is jenkins's freestyle java project </h1>
 
 </body>
 </html>
